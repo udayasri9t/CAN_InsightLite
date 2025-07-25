@@ -2,14 +2,6 @@
 
 **CAN Insight Lite** is a simulation-based vehicle diagnostics dashboard designed to visualize, analyze, and log Controller Area Network (CAN) messages in real time. Built with Python and Dash, it helps users monitor simulated vehicle behavior without needing physical automotive hardware.
 
----
-
-## 📸 Live Preview
-
-![Dashboard Preview](demoscreenshot.png) <!-- Add your screenshot or GIF here -->
-
----
-
 ## 🧠 Features
 
 - 📡 **CAN Simulator**: Generates realistic CAN messages with varying vehicle data.
