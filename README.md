@@ -6,7 +6,7 @@
 
 ## 📸 Live Preview
 
-![Dashboard Preview](assets/demo_screenshot.png) <!-- Add your screenshot or GIF here -->
+![Dashboard Preview](demoscreenshot.png) <!-- Add your screenshot or GIF here -->
 
 ---
 
